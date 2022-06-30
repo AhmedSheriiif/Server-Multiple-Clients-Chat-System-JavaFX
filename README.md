@@ -12,5 +12,6 @@
 ## Features
 - Signup/Login feature
 - Status (Available - Busy - Offline), that will appear to the server and all clients
+- Many clients can chat together at the same time
 - Connecting the Server to the database to request signup, logins, status changing and chat messages requests
 
